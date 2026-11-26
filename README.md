@@ -10,15 +10,15 @@ Ich mache eine Umschulung zum **IT-Systemelektroniker** und suche einen Betrieb,
 
 | Projekt | Worum es geht | Technik |
 |---|---|---|
-| **Multitool** | Dashboard mit IT-Nachrichten, Wetter, Schulterminen und Dokumentationsarchiv | Debian, Proxmox, Docker Compose, Flask, Caddy |
-| **maKI Monitoring** | Überwachung zweier Proxmox-Server und weiterer Netzwerkdienste auf einem Raspberry Pi 2 mit 1 GB RAM | Raspberry Pi 2, FastAPI, Nginx, SQLite, Docker Compose |
+| **Multitool** | Dashboard mit IT-Nachrichten, Wetter, Schulterminen und Dokumentationsarchiv | Debian, Proxmox, Docker Compose, Flask, Caddy · [Projektdokumentation (PDF)](https://nicoheublein.github.io/maki-multitool-dokumentation.pdf) |
+| **maKI Monitoring** | Überwachung zweier Proxmox-Server und weiterer Netzwerkdienste auf einem Raspberry Pi 2 mit 1 GB RAM | Raspberry Pi 2, FastAPI, Nginx, SQLite, Docker Compose · [Projektdokumentation (PDF)](https://nicoheublein.github.io/maki-monitoring-dokumentation.pdf) |
 | **USV im Serverprojekt** | Mitarbeit im USV-Team: Stromversorgung absichern und das geordnete Herunterfahren der Server dokumentieren | CyberPower-USV, PowerPanel Business, Linux, SSH, Shell |
 | **Tafelstream** | Konzept, um Tafelinhalte im lokalen Netzwerk per USB-Capture in den Browser zu übertragen | Ubuntu Server, FFmpeg, MediaMTX, WebRTC, Docker Compose |
 | **USB-Datenrettung unter Proxmox** | Wiederaufnehmbare, sektorweise Sicherung einer beschädigten 2-TB-Festplatte auf verschlüsselten Speicher | Proxmox VE, SystemRescue, GNU ddrescue, LUKS2, Bash |
 | **Debian-Homeserver** | Privates Lernprojekt: Dienste in Docker-Containern, Erreichbarkeit im Netzwerk, Fernzugriff | Debian, Docker |
 | **Smart-Home-Leitstand R4** | Home Assistant auf einem Mini-PC und ein Leitstand für Heizung, Raumklima und Stromverbrauch | Home Assistant, Docker, Bluetooth, Tailscale, Debian |
 
-Zum Leitstand gibt es gekürzte öffentliche Fassungen der [Projektdokumentation](https://nicoheublein.github.io/projektbericht.pdf), der [Kundendokumentation](https://nicoheublein.github.io/betrieb.pdf) und der [Bedienungsanleitung](https://nicoheublein.github.io/bedienung.pdf).
+Zum Leitstand gibt es eine [technische Gesamtdokumentation (PDF)](https://nicoheublein.github.io/leitstand-dokumentation.pdf).
 
 ### Weitere private Projekte
 
